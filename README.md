@@ -7,6 +7,6 @@
 - ⚡ Fun fact: Minecraft game fans who like to make bots 
 
 <!---
-arull0304/arull0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+arull0304/ArullBot-Md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
